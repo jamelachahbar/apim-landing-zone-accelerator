@@ -1,6 +1,6 @@
 AZURE_LOCATION: 'westeurope'
 RESOURCE_NAME_PREFIX: 'apimdemo'
-ENVIRONMENT_TAG: 'production'
+ENVIRONMENT_TAG: 'prod'
 DEPLOYMENT_NAME: 'ase-demo-deployment'
 VM_USERNAME: 'agent'
 ACCOUNT_NAME: 'github.com/jamelachahbar'
